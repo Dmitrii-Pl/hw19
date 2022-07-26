@@ -1,0 +1,4 @@
+PWD_HASH_SALT = b'rikitikitawi'
+PWD_HASH_ITERATIONS = 100_000
+JWT_SECRET = "$p1r1tDota2"
+JWT_ALG = "HS256"
